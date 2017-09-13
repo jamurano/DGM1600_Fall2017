@@ -24,5 +24,7 @@ public class SyntaxAnd : MonoBehaviour {
 		
 	}
 }
-// Syntax is the examples I did above. With float, you can do percentages, with string you can do phrases or things, and with int you can do whole numbers.
-// As far as I could research, a convention seems to be the entire code. I am probably wrong, but there wasn't any info about what a convention is.
+}
+
+ // Syntax is the structure of the language. Like using semi-colons to end sentences. Indenting the code makes it easier to read though it isn't neccessary. Comments are used to make notes for yourself or people you are working with.
+//  Conventions are the guidelines for a specific programming language. They recommend the style, practices, and methods for every single aspect written in that particular language.
